@@ -30,3 +30,14 @@ C:\Users\tsouz\source\repos\FilmesAPI\FilmesAPI\obj\Debug\net6.0\refint\FilmesAP
 C:\Users\tsouz\source\repos\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.pdb
 C:\Users\tsouz\source\repos\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.genruntimeconfig.cache
 C:\Users\tsouz\source\repos\FilmesAPI\FilmesAPI\obj\Debug\net6.0\ref\FilmesAPI.dll
+C:\Users\tsouz\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\tsouz\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tsouz\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tsouz\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tsouz\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tsouz\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tsouz\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tsouz\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\tsouz\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\tsouz\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\tsouz\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
