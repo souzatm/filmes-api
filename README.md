@@ -22,3 +22,15 @@
   <li>Como tornar nossos retornos mais enxutos através de conceitos de paginação.</li>
   <li>Como aplicar paginação através dos métodos Skip() e Take().</li>
 </ul>
+<br>
+<h3>Módulo 04: Utilizando banco de dados</h3>
+<p>Nessa aula aprendemos:</p>
+<ul>
+  <li>Como abrir uma conexão entre a API e o banco de dados através do EntityFramework.</li>
+  <li>Como gerar migrations com .NET 6 e mapear nosso objeto no banco de dados.</li>
+  <li>O DbContext serve como ponte e para fazer operações no banco.</li>
+  <li>Como injetar o DbContext em nosso controlador a fim de acessar o banco de dados.</li>
+  <li>Como salvar as alterações no banco de dados através do método SaveChanges().</li>
+  <li>DTOs nos ajudam a não deixar nosso modelo de banco de dados exposto.</li>
+  <li>Como fazer conversões práticas entre diferentes tipos através do AutoMapper.</li>
+</ul>
