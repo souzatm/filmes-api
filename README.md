@@ -34,3 +34,13 @@
   <li>DTOs nos ajudam a não deixar nosso modelo de banco de dados exposto.</li>
   <li>Como fazer conversões práticas entre diferentes tipos através do AutoMapper.</li>
 </ul>
+<br>
+<h3>Módulo 05: Atualizando e removendo</h3>
+<p>Nessa aula aprendemos:</p>
+<ul>
+  <li>O verbo PUT pode ser utilizado quando queremos atualizar algum recurso no sistema.</li>
+  <li>O verbo PATCH também pode ser utilizado para atualizações, porém de maneira parcial.</li>
+  <li>Apesar do verbo PATCH não exigir a passagem completa do objeto a ser atualizado, exige uma configuração mais complexa.</li>
+  <li>O verbo DELETE deve ser utilizado quando queremos deletar um recurso no sistema.</li>
+  <li>Quando um recurso é atualizado ou removido com sucesso, devemos retornar status 204 (No Content).</li>
+</ul>
