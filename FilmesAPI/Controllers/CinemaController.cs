@@ -31,9 +31,9 @@ namespace FilmesAPI.Controllers
         }
 
         [HttpGet]
-        public IEnumerable<ReadCinemaDto> RecuperaCinemas([FromQuery] int skip = 0, [FromQuery] int take = 50)
+        public IEnumerable<ReadCinemaDto> RecuperaCinemas()
         {
-            return _mapper.Map<List<ReadCinemaDto>>(_context.Cinemas.Skip(skip).Take(take));
+            return _mapper.Map<List<ReadCinemaDto>>(_context.Cinemas.ToList());
         }
 
         [HttpGet("{id}")]
@@ -52,26 +52,6 @@ namespace FilmesAPI.Controllers
             var cinema = _context.Filmes.FirstOrDefault(cinema => cinema.Id == id);
             if (cinema == null) return NotFound();
             _mapper.Map(cinemaDto, cinema);
-            _context.SaveChanges();
-            return NoContent();
-        }
-
-        [HttpPatch("{id}")]
-        public IActionResult AtualizaCinemaParcial(int id,
-            JsonPatchDocument<UpdateCinemaDto> patch)
-        {
-            var cinema = _context.Cinemas.FirstOrDefault(cinema => cinema.Id == id);
-            if (cinema == null) return NotFound();
-
-            var cinemaParaAtualizar = _mapper.Map<UpdateCinemaDto>(cinema);
-            patch.ApplyTo(cinemaParaAtualizar, ModelState);
-
-            if (!TryValidateModel(cinemaParaAtualizar))
-            {
-                return ValidationProblem(ModelState);
-            }
-
-            _mapper.Map(cinemaParaAtualizar, cinema);
             _context.SaveChanges();
             return NoContent();
         }
