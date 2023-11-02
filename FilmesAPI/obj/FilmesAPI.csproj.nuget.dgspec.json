@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tsouz\\source\\repos\\filmes-api\\FilmesAPI\\FilmesAPI.csproj": {}
+    "C:\\Users\\tsouz\\source\\repos\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tsouz\\source\\repos\\filmes-api\\FilmesAPI\\FilmesAPI.csproj": {
+    "C:\\Users\\tsouz\\source\\repos\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tsouz\\source\\repos\\filmes-api\\FilmesAPI\\FilmesAPI.csproj",
+        "projectUniqueName": "C:\\Users\\tsouz\\source\\repos\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
         "projectName": "FilmesAPI",
-        "projectPath": "C:\\Users\\tsouz\\source\\repos\\filmes-api\\FilmesAPI\\FilmesAPI.csproj",
+        "projectPath": "C:\\Users\\tsouz\\source\\repos\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
         "packagesPath": "C:\\Users\\tsouz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tsouz\\source\\repos\\filmes-api\\FilmesAPI\\obj\\",
+        "outputPath": "C:\\Users\\tsouz\\source\\repos\\FilmesAPI\\FilmesAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -98,7 +98,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
