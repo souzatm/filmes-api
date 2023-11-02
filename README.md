@@ -10,7 +10,6 @@
   <li>A anotação [StringLength] limita o tamanho de caracteres de uma string.</li>
   <li>A anotação [Range] limita o intervalo inferior e superior para valores numéricos.</li>
 </ul>
-<br>
 <h3>Módulo 03: Consultando e paginando</h3>
 <p>Nessa aula aprendemos:</p>
 <ul>
