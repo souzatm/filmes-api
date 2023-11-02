@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace FilmesAPI.Models
+namespace FilmesApi.Models
 {
     public class Endereco
     {
@@ -10,6 +10,5 @@ namespace FilmesAPI.Models
         public string Logradouro { get; set; }
         public int Numero { get; set; }
         public virtual Cinema Cinema { get; set; }
-
     }
 }

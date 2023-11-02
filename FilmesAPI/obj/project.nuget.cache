@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cp/L1CdAm067tq5Q6tZxKN9jZZb2ba45SyX2KzyUs9KwPmrCfeg4oS20c7JyUDZovzPUS2JjQ4nWtookBHoNNQ==",
+  "dgSpecHash": "Pj5hTrTCm0X0UBXe1ns7MGvLeY3c4UNhAkVbLckFhb7Vz3Mp1eDj8eQhyJK4hj8PWrCaDuQ+XG2jS8UmwmTV0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tsouz\\source\\repos\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
+  "projectFilePath": "C:\\Users\\tsouz\\source\\repos\\filmes-api\\FilmesAPI\\FilmesAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tsouz\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\tsouz\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
